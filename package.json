@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/facethedawn/meadowlark/issues"
   },
-  "homepage": "https://github.com/facethedawn/meadowlark#readme"
+  "homepage": "https://github.com/facethedawn/meadowlark#readme",
+  "devDependencies": {
+    "express": "^4.15.4",
+    "express3-handlebars": "^0.5.2"
+  }
 }
